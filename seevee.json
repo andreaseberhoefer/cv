@@ -74,6 +74,19 @@
             "descriptionTextBlocks" : [
                 "I was da BOSS!"
             ]
+        },
+         {
+            "fromDate"        : "1983-01-01",
+            "toDate"          : "1986-03-01",
+            "companyName"     : "Chief Executive Flufficer",
+            "position"        : "Chief Executive Flufficer",
+            "project"         : "everything",
+            "softwareUsed" : [
+                "Groovy", "Java"
+            ],
+            "descriptionTextBlocks" : [
+                "I was da BOSS!"
+            ]
         }
     ]
 
